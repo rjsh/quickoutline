@@ -31,7 +31,7 @@ function tr(e, pattern){
 }
 
 function mkPar(e){
-  return e.attr('data-tt-parent-id')? tr(elements[parseInt(e.attr('data-tt-parent-id'))]) : false;
+  return e.attr('data-tt-parent-id')? tr(headers[parseInt(e.attr('data-tt-parent-id'))]) : false;
 }
 
 function findBrToFold(){
@@ -131,7 +131,7 @@ function filter(){
 
   var tb = $("<table>");
   var show = {};
-  $.each(elements, function(i, e){
+  $.each(headers, function(i, e){
     var chars = term.split('');
     var matcher = new RegExp(["(",")"].join(chars.map(escRe).join(".*")), "i");
 
@@ -165,7 +165,7 @@ function qoTb(anchor){
   } else {
     tb.appendTo(anchor);
   }
-  $.each(elements, function(i, e){ tr(e).appendTo(tb); });
+  $.each(headers, function(i, e){ tr(e).appendTo(tb); });
   tb.treetable({ expandable: true, initialState: "expanded" });
   return tb;
 }
@@ -202,11 +202,15 @@ function qoSel(){
      return;
   }
 
-  console.log(sel.text());
+  // console.log(sel.text());
+  var ix = Number(sel.attr("data-tt-id"));
+  headers[ix].elem.scrollIntoView();
   qoHide();
 }
 
 function qoInit(){
+  headers = qoTree();
+
   var qo = $("<div>").attr("id", "quickoutline").css("display", "none").appendTo('body');
   var in_= $("<input>").attr("id", "filter").appendTo(qo);
   var div= $("<div>").attr("id", "menu").appendTo(qo);
@@ -235,3 +239,26 @@ function qoInit(){
 }
 
 $(document).ready(qoInit);
+function qoTree(){
+  var hs = [];
+  var last = [];
+
+  $('h1, h2, h3, h4, h5, h6').map(function(i){
+    var h = {name: this.innerText, 'data-tt-id': i, elem: this};
+    var level = Number(this.tagName[1]);
+    last[level] = i;
+
+    for (var j = level-1; j>0; j--){
+      if (typeof last[j] === "undefined") {
+        continue;
+      }
+      h["data-tt-parent-id"] = last[j];
+      break;
+    }
+    hs.push(h);
+  });
+
+  return hs;
+}
+
+var headers;
