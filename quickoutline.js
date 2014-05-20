@@ -1,5 +1,3 @@
-var clicky = $(null);
-
 function escRe(string){
   return string.replace(/([.*+?^=!:${}()|\[\]\/\\])/g, "\\$1");
 }
@@ -261,4 +259,5 @@ function qoTree(){
 }
 
 var headers;
+var clicky = $(null);
 $(qoInit);
