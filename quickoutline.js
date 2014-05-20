@@ -209,7 +209,7 @@ function qoSel(){
 function qoInit(){
   var qo = $("<div>").attr("id", "quickoutline").css("display", "none").appendTo('body');
   var in_= $("<input>").attr("id", "filter").appendTo(qo);
-  var div= $("<div>").attr("id", "table").appendTo(qo);
+  var div= $("<div>").attr("id", "menu").appendTo(qo);
   var tb = qoTb(div);
 
   var input = in_[0];
