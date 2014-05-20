@@ -238,7 +238,6 @@ function qoInit(){
   globHk.simple_combo("ctrl o", qoShow);
 }
 
-$(document).ready(qoInit);
 function qoTree(){
   var hs = [];
   var last = [];
@@ -262,3 +261,4 @@ function qoTree(){
 }
 
 var headers;
+$(qoInit);
