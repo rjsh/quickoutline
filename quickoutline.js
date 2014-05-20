@@ -171,24 +171,24 @@ function qoTb(anchor){
 }
 
 function qoHide(){
-  $("#quickopen").hide();
+  $("#quickoutline").hide();
 }
 
 function qoBlur(){
   if (clicky.is("span.indenter a")) {
-    $("#quickopen #filter").focus();
+    $("#quickoutline #filter").focus();
     return;
   }
   qoHide();
 }
 
 function qoShow(){
-  var qo = $("#quickopen");
+  var qo = $("#quickoutline");
   if (qo.is(':visible')){
     return true;
   }
 
-  var in_ = $("#quickopen #filter");
+  var in_ = $("#quickoutline #filter");
   in_.val("");
   qoTb($("#ebml"));
   qo.show();
@@ -197,7 +197,7 @@ function qoShow(){
 }
 
 function qoSel(){
-  var sel = $("#quickopen .selected");
+  var sel = $("#quickoutline .selected");
   if (!sel.size()){
      return;
   }
@@ -207,7 +207,7 @@ function qoSel(){
 }
 
 function qoInit(){
-  var qo = $("<div>").attr("id", "quickopen").css("display", "none").appendTo('body');
+  var qo = $("<div>").attr("id", "quickoutline").css("display", "none").appendTo('body');
   var in_= $("<input>").attr("id", "filter").appendTo(qo);
   var div= $("<div>").attr("id", "table").appendTo(qo);
   var tb = qoTb(div);

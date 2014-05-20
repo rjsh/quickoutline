@@ -1,4 +1,4 @@
-#quickopen #table {
+#quickoutline #table {
   position:fixed;
   top: 25%;
   left: 25%;
@@ -15,7 +15,7 @@
   padding: 0;
 }
 
-#quickopen #filter {
+#quickoutline #filter {
   position:fixed;
   top: 22.76%;
   left: 25%;
@@ -30,6 +30,6 @@
   /* padding: .13em; */
 }
 
-#quickopen #filter:focus {
+#quickoutline #filter:focus {
   outline: 0;
 }
