@@ -33,19 +33,19 @@ function mkPar(e){
 }
 
 function findBrToFold(){
-  var sel = $('#ebml .selected');
+  var sel = $('#quickoutline .selected');
   if (!sel.size()){
      return;
   }
   if (sel.hasClass('branch') && sel.hasClass('expanded')){
-    $('#ebml').treetable("collapseNode", sel.attr('data-tt-id'));
+    $('#treetable_').treetable("collapseNode", sel.attr('data-tt-id'));
     return;
   }
   if (!sel.attr('data-tt-parent-id')){
      return;
   }
   sel.removeClass('selected');
-  p = $(sprintf('#ebml tr[data-tt-id=%s]', sel.attr('data-tt-parent-id')));
+  p = $(sprintf('#quickoutline tr[data-tt-id=%s]', sel.attr('data-tt-parent-id')));
   p.addClass('selected');
 }
 
@@ -66,22 +66,22 @@ function nextVisible(next, down){
 }
 
 function focusNext(down){
-  var sel = $('#ebml .selected');
+  var sel = $('#quickoutline .selected');
   var next = nextVisible(down? sel.next() : sel.prev(), down);
 
   if (next.size()) {
     focus(sel, next);
   } else {
-    var end = nextVisible(down? $('#ebml tr:first') : $('#ebml tr:last'), down);
+    var end = nextVisible(down? $('#quickoutline tr:first') : $('#quickoutline tr:last'), down);
     focus(sel, end);
   }
 }
 
 function focusEnd(top_){
-  var sel = $('#ebml .selected');
+  var sel = $('#quickoutline .selected');
   var up = false;
   var down = true;
-  var end = nextVisible(top_? $('#ebml tr:first') : $('#ebml tr:last'), top_? down : up);
+  var end = nextVisible(top_? $('#quickoutline tr:first') : $('#quickoutline tr:last'), top_? down : up);
   focus(sel, end);
 }
 
@@ -106,24 +106,24 @@ function focusDown(){
 }
 
 function focusAuto(){
-  var sel = $('#ebml .selected');
+  var sel = $('#quickoutline .selected');
   var down = true;
-  var first = nextVisible($('#ebml tr:first'), down);
+  var first = nextVisible($('#quickoutline tr:first'), down);
   focus(sel, first); 
 }
 
 function expSel(){
-  var sel = $('#ebml .selected');
+  var sel = $('#quickoutline .selected');
   if (!sel.size()) {
     return;
   }
-  $('#ebml').treetable('expandNode', sel.attr('data-tt-id'));
+  $('#treetable_').treetable('expandNode', sel.attr('data-tt-id'));
 }
 
 function filter(){
   var term = $("#filter").val();
   if (!term) {
-    qoTb($("#ebml"));
+    qoTb($("#treetable_"));
     return;
   }
 
@@ -150,14 +150,14 @@ function filter(){
     }
   })
 
-  $("#ebml").replaceWith(tb);
+  $("#treetable_").replaceWith(tb);
   tb.treetable({ expandable: true, initialState: "expanded" })
-  tb.attr("id", "ebml");
+  tb.attr("id", "treetable_");
 }
 
 function qoTb(anchor){
   var replace = anchor.prop("tagName").toLowerCase() == 'table';
-  var tb = $("<table>").attr("id", "ebml");
+  var tb = $("<table>").attr("id", "treetable_");
   if (replace) {
     anchor.replaceWith(tb);
   } else {
@@ -188,7 +188,7 @@ function qoShow(){
 
   var in_ = $("#quickoutline #filter");
   in_.val("");
-  qoTb($("#ebml"));
+  qoTb($("#treetable_"));
   qo.show();
   in_.focus();
   focusAuto();
