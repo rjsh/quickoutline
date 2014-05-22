@@ -238,23 +238,20 @@ function qoInit(){
 
 function qoTree(){
   var hs = [];
-  var last = [];
-
   $('h1, h2, h3, h4, h5, h6').map(function(i){
     var h = {name: this.innerText, 'data-tt-id': i, elem: this};
     var level = Number(this.tagName[1]);
-    last[level] = i;
 
-    for (var j = level-1; j>0; j--){
-      if (typeof last[j] === "undefined") {
+    for (var j = i-1; j>=0; j--){
+      var levelj = Number(hs[j].elem.tagName[1]);
+      if (levelj >= level) {
         continue;
       }
-      h["data-tt-parent-id"] = last[j];
+      h["data-tt-parent-id"] = j;
       break;
     }
     hs.push(h);
   });
-
   return hs;
 }
 

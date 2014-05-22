@@ -1,9 +1,9 @@
 table.treetable {
-  /* border: 1px solid #888; */
+  border: 0px;
   border-collapse: collapse;
   font-size: .8em;
   line-height: 1;
-  /* margin: .6em 0 1.8em 0; */
+  margin: 0;
   width: 100%;
 }
 
@@ -26,6 +26,7 @@ table.treetable thead tr th {
 }
 
 table.treetable tbody tr td {
+  border: 0;
   cursor: default;
   padding: .3em 1em;
 }
@@ -54,6 +55,10 @@ table.treetable tr.expanded span.indenter a {
 
 table.treetable tr.branch {
   background-color: #fafbc5;
+}
+
+table.treetable tr {
+  color: #000;
 }
 
 table.treetable tr.selected {
