@@ -202,7 +202,12 @@ function qoSel(){
 
   // console.log(sel.text());
   var ix = Number(sel.attr("data-tt-id"));
+  var state = {scrollTop: $(document).scrollTop()};
+  var title = $('title').text();
+  var path = window.location.pathname + window.location.search;
+  window.history.pushState(state, title, path);
   headers[ix].elem.scrollIntoView();
+
   qoHide();
 }
 
