@@ -420,7 +420,7 @@
         column: 0,
         columnElType: "td", // i.e. 'td', 'th' or 'td,th'
         expandable: false,
-        expanderTemplate: "<a href='#'>&nbsp;</a>",
+        expanderTemplate: "<a href='#'>&#160;</a>",
         indent: 19,
         indenterTemplate: "<span class='indenter'></span>",
         initialState: "collapsed",
