@@ -48,7 +48,7 @@ function findBrToFold(){
      return;
   }
   sel.removeClass('selected');
-  p = $(sprintf('#quickoutline tr[data-tt-id=%s]', sel.attr('data-tt-parent-id')));
+  var p = $(sprintf('#quickoutline tr[data-tt-id=%s]', sel.attr('data-tt-parent-id')));
   p.addClass('selected');
 }
 
