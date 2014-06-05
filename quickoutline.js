@@ -243,7 +243,12 @@ function qoInit(){
 
 function qoTree(){
   var hs = [];
-  $('h1, h2, h3, h4, h5, h6').map(function(i){
+  $('h1, h2, h3, h4, h5, h6').map(function(){
+    if (!$(this).is(':visible')) {
+      return;
+    }
+
+    var i = hs.length;
     var h = {name: this.innerText, 'data-tt-id': i, elem: this};
     var level = Number(this.tagName[1]);
 
