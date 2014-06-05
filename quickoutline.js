@@ -107,9 +107,9 @@ function focusDown(){
 
 function focusAuto(){
   var sel = $('#quickoutline .selected');
-  var down = true;
-  var first = nextVisible($('#quickoutline tr:first'), down);
-  focus(sel, first); 
+  var cur = _.min(headers, function(h){ return Math.abs($(h.elem).offset().top - $(document).scrollTop()); });
+  cur = $(sprintf('#quickoutline tr[data-tt-id=%s]', cur['data-tt-id']));
+  focus(sel, cur);
 }
 
 function expSel(){
