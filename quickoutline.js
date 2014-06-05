@@ -218,8 +218,9 @@ function qoInit(){
   headers = qoTree();
 
   var qo = $("<div>").attr("id", "quickoutline").css("display", "none").appendTo('body');
-  var in_= $("<input>").attr("id", "filter").appendTo(qo);
-  var div= $("<div>").attr("id", "menu").appendTo(qo);
+  var qoRelative = $("<div>").appendTo(qo).addClass("relative");
+  var in_= $("<input>").attr("id", "filter").appendTo(qoRelative);
+  var div= $("<div>").attr("id", "menu").appendTo(qoRelative);
   var tb = qoTb(div);
 
   var input = in_[0];

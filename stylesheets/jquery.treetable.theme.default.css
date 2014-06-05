@@ -1,7 +1,7 @@
 table.treetable {
   border: 0px;
   border-collapse: collapse;
-  font-size: .8em;
+  font-size: 12px;
   line-height: 1;
   margin: 0;
   width: 100%;
@@ -23,6 +23,10 @@ table.treetable thead tr th {
   font-weight: normal;
   padding: .3em 1em .1em 1em;
   text-align: left;
+}
+
+table.treetable tbody {
+  border: 0;
 }
 
 table.treetable tbody tr td {
