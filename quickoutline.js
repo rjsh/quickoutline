@@ -5,7 +5,10 @@ function escRe(string){
 function tr(e, pattern){
   var span = $('<span>').addClass("qoSpan");
   var d = $('<td>').append(span);
-  var r = $('<tr>').attr(e).append(d);;
+  var r = $('<tr>').attr('data-tt-id', e['data-tt-id']).append(d);
+  if ('data-tt-parent-id' in e){
+    r.attr('data-tt-parent-id', e['data-tt-parent-id']);
+  }
 
   if (!pattern) {
     span.text(e.name);
