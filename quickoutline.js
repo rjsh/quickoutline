@@ -237,8 +237,7 @@ function qoInit(){
   in_.bind('input', filter);
   in_.focusout(qoBlur);
 
-  var globHk = new window.keypress.Listener();
-  globHk.simple_combo("ctrl o", qoShow);
+  Mousetrap.bind("ctrl+o", qoShow)
 }
 
 function qoTree(){
