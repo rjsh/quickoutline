@@ -1,49 +1,45 @@
 {
-  "background": {
-    "persistent": true,
-    "scripts": [
-      "vendor/jquery.js",
-      "epub.js",
-      "eloquentjavascript.js",
-      "qtff.js",
-      "realworldhaskell.js",
-      "hosts.js"
-    ]
-  },
-
-  "content_scripts": [
-    {
-      "js": [
-        "sprintf.js",
-        "keypress.js",
-        "underscore.js",
-        "mousetrap.min.js",
-        "vendor/jquery.js",
-        "javascripts/src/jquery.treetable.js",
-        "quickoutline.js"
-      ],
-      "css": [
-        "stylesheets/jquery.treetable.css",
-        "stylesheets/jquery.treetable.theme.default.css",
-        "quickoutline.css"
-      ],
-      "matches": [
+    "web_accessible_resources": [
+        "spiffygif_12x12.gif"
+    ],
+    "description": "html quickoutline",
+    "icons": {
+        "128": "1400588466_519570-066_Play.png"
+    },
+    "background": {
+        "persistent": true,
+        "scripts": [
+            "vendor/jquery.js",
+            "db.js",
+            "hosts.js"
+        ]
+    },
+    "name": "quickoutline",
+    "version": "0.0",
+    "manifest_version": 2,
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "css": [
+                "stylesheets/jquery.treetable.css",
+                "stylesheets/jquery.treetable.theme.default.css",
+                "quickoutline.css"
+            ],
+            "js": [
+                "sprintf.js",
+                "keypress.js",
+                "underscore.js",
+                "mousetrap.min.js",
+                "vendor/jquery.js",
+                "javascripts/src/jquery.treetable.js",
+                "quickoutline.js"
+            ]
+        }
+    ],
+    "browser_action": {},
+    "permissions": [
         "<all_urls>"
-      ]
-    }
-  ],
-  "name": "quickoutline",
-  "manifest_version": 2,
-  "version": "0.0",
-  "description": "html quickoutline",
-  "icons": {
-    "128": "1400588466_519570-066_Play.png"
-  },
-  "permissions": [
-    "<all_urls>"
-  ],
-  "browser_action": {},
-  "web_accessible_resources": [
-    "spiffygif_12x12.gif"
-  ]
+    ]
 }
