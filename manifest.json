@@ -3,10 +3,7 @@
     "persistent": true,
     "scripts": [
       "vendor/jquery.js",
-      "epub.js",
-      "eloquentjavascript.js",
-      "qtff.js",
-      "realworldhaskell.js",
+      "db.js",
       "hosts.js"
     ]
   },
