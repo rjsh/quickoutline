@@ -38643,5 +38643,4382 @@ var db = {
                 "title": "Footnotes"
             }
         ]
+    },
+    "gameprogrammingpatterns": {
+        "pages": [
+            {
+                "depth": 7,
+                "href": "contents.html",
+                "title": "Table of Contents"
+            },
+            {
+                "depth": 7,
+                "href": "acknowledgements.html",
+                "title": "Acknowledgements"
+            },
+            {
+                "depth": 7,
+                "href": "introduction.html",
+                "title": "Introduction"
+            },
+            {
+                "depth": 8,
+                "href": "architecture-performance-and-games.html",
+                "title": "Architecture, Performance, and Games"
+            },
+            {
+                "depth": 7,
+                "href": "design-patterns-revisited.html",
+                "title": "Design Patterns Revisited"
+            },
+            {
+                "depth": 8,
+                "href": "command.html",
+                "title": "Command"
+            },
+            {
+                "depth": 8,
+                "href": "flyweight.html",
+                "title": "Flyweight"
+            },
+            {
+                "depth": 8,
+                "href": "observer.html",
+                "title": "Observer"
+            },
+            {
+                "depth": 8,
+                "href": "prototype.html",
+                "title": "Prototype"
+            },
+            {
+                "depth": 8,
+                "href": "singleton.html",
+                "title": "Singleton"
+            },
+            {
+                "depth": 8,
+                "href": "state.html",
+                "title": "State"
+            },
+            {
+                "depth": 7,
+                "href": "sequencing-patterns.html",
+                "title": "Sequencing Patterns"
+            },
+            {
+                "depth": 8,
+                "href": "double-buffer.html",
+                "title": "Double Buffer"
+            },
+            {
+                "depth": 8,
+                "href": "game-loop.html",
+                "title": "Game Loop"
+            },
+            {
+                "depth": 8,
+                "href": "update-method.html",
+                "title": "Update Method"
+            },
+            {
+                "depth": 7,
+                "href": "behavioral-patterns.html",
+                "title": "Behavioral Patterns"
+            },
+            {
+                "depth": 8,
+                "href": "bytecode.html",
+                "title": "Bytecode"
+            },
+            {
+                "depth": 8,
+                "href": "subclass-sandbox.html",
+                "title": "Subclass Sandbox"
+            },
+            {
+                "depth": 8,
+                "href": "type-object.html",
+                "title": "Type Object"
+            },
+            {
+                "depth": 7,
+                "href": "decoupling-patterns.html",
+                "title": "Decoupling Patterns"
+            },
+            {
+                "depth": 8,
+                "href": "component.html",
+                "title": "Component"
+            },
+            {
+                "depth": 8,
+                "href": "event-queue.html",
+                "title": "Event Queue"
+            },
+            {
+                "depth": 8,
+                "href": "service-locator.html",
+                "title": "Service Locator"
+            },
+            {
+                "depth": 7,
+                "href": "optimization-patterns.html",
+                "title": "Optimization Patterns"
+            },
+            {
+                "depth": 8,
+                "href": "data-locality.html",
+                "title": "Data Locality"
+            },
+            {
+                "depth": 8,
+                "href": "dirty-flag.html",
+                "title": "Dirty Flag"
+            },
+            {
+                "depth": 8,
+                "href": "object-pool.html",
+                "title": "Object Pool"
+            },
+            {
+                "depth": 8,
+                "href": "spatial-partition.html",
+                "title": "Spatial Partition"
+            }
+        ]
+    },
+    "you-dont-know-js": {
+        "pages": [
+            {
+                "depth": 1,
+                "href": "/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md",
+                "title": "You Don't Know JS: Scope & Closures"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/preface.md",
+                "title": "Preface"
+            },
+            {
+                "depth": 2,
+                "href": "https://shanehudson.net/2014/06/03/foreword-dont-know-js/",
+                "title": "Foreword (by Shane Hudson)"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/ch1.md",
+                "title": "Chapter 1: What is Scope?"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/ch2.md",
+                "title": "Chapter 2: Lexical Scope"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/ch3.md",
+                "title": "Chapter 3: Function vs. Block Scope"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/ch4.md",
+                "title": "Chapter 4: Hoisting"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/ch5.md",
+                "title": "Chapter 5: Scope Closures"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/apA.md",
+                "title": "Appendix A: Dynamic Scope"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/apB.md",
+                "title": "Appendix B: Polyfilling Block Scope"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/apC.md",
+                "title": "Appendix C: Lexical-this"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/apD.md",
+                "title": "Appendix D: Thank You's!"
+            },
+            {
+                "depth": 1,
+                "href": "/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md",
+                "title": "You Don't Know JS: this & Object Prototypes"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/preface.md",
+                "title": "Preface"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/foreword.md",
+                "title": "Foreword (by Nick Berardi)"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch1.md",
+                "title": "Chapter 1: this Or That?"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch2.md",
+                "title": "Chapter 2: this All Makes Sense Now!"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch3.md",
+                "title": "Chapter 3: Objects"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch4.md",
+                "title": "Chapter 4: Mixing (Up) \"Class\" Objects"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch5.md",
+                "title": "Chapter 5: Prototypes"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch6.md",
+                "title": "Chapter 6: Behavior Delegation"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/apA.md",
+                "title": "Appendix A: ES6 class"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/apB.md",
+                "title": "Appendix B: Thank You's!"
+            },
+            {
+                "depth": 1,
+                "href": "/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md",
+                "title": "You Don't Know JS: Types & Grammar"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/preface.md",
+                "title": "Preface"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/foreword.md",
+                "title": "\nForeword (by David Walsh)"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/ch1.md",
+                "title": "Chapter 1: Types"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/ch2.md",
+                "title": "Chapter 2: Values"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/ch3.md",
+                "title": "Chapter 3: Natives"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/ch4.md",
+                "title": "Chapter 4: Coercion"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/ch5.md",
+                "title": "Chapter 5: Grammar"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/apA.md",
+                "title": "Appendix A: Mixed Environment JavaScript"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/apB.md",
+                "title": "Appendix B: Thank You's!"
+            },
+            {
+                "depth": 1,
+                "href": "/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md",
+                "title": "You Don't Know JS: Async & Performance"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/preface.md",
+                "title": "Preface"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch1.md",
+                "title": "Chapter 1: Asynchrony: Now & Later"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch2.md",
+                "title": "Chapter 2: Callbacks"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md",
+                "title": "Chapter 3: Promises"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch4.md",
+                "title": "Chapter 4: Generators"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch5.md",
+                "title": "Chapter 5: Program Performance"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch6.md",
+                "title": "Chapter 6: Tuning & Benchmarking"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/apA.md",
+                "title": "Appendix A: // TODO"
+            },
+            {
+                "depth": 2,
+                "href": "/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/apB.md",
+                "title": "Appendix B: Thank You's!"
+            }
+        ]
+    },
+    "android-prog": {
+        "toc": [
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0000.html#description",
+                "title": "Title Page"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0001.html#generator",
+                "title": "Dedication"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0002.html#generator",
+                "title": "Acknowledgments"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0004.html#generator",
+                "title": "Learning Android"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0004.html#idp65584",
+                "title": "Prerequisites"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0005.html#generator",
+                "title": "How to Use This Book"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0006.html#generator",
+                "title": "How This Book Is Organized"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0006.html#idp90800",
+                "title": "Challenges"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0006.html#idp93520",
+                "title": "Are you more curious?"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0007.html#generator",
+                "title": "Code Style"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0008.html#generator",
+                "title": "Typographical Conventions"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0009.html#generator",
+                "title": "Using an eBook"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0010.html#generator",
+                "title": "The Necessary Tools"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0010.html#idp118080",
+                "title": "The ADT Bundle"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0010.html#idp130064",
+                "title": "Downloading and installing the bundle"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0010.html#idp136256",
+                "title": "Downloading earlier SDK versions"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0010.html#idp149856",
+                "title": "A hardware device"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0011.html#generator",
+                "title": "1. Your First Android Application"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0011.html#idp160864",
+                "title": "App Basics"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0012.html#generator",
+                "title": "Creating an Android Project"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0013.html#generator",
+                "title": "Navigating in Eclipse"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0014.html#generator",
+                "title": "Laying Out the User Interface"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0014.html#idp301280",
+                "title": "The view hierarchy"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0014.html#idp323872",
+                "title": "Widget attributes"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0014.html#idp325248",
+                "title": "android:layout_width and android:layout_height"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0014.html#idp344992",
+                "title": "android:orientation"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0014.html#idp351072",
+                "title": "android:text"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0014.html#idp362320",
+                "title": "Creating string resources"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0014.html#idp381648",
+                "title": "Previewing the layout"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0015.html#generator",
+                "title": "From Layout XML to View Objects"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0015.html#idp415472",
+                "title": "Resources and resource IDs"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0016.html#generator",
+                "title": "Wiring Up Widgets"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0016.html#idp467328",
+                "title": "Organizing imports"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0016.html#idp475456",
+                "title": "Getting references to widgets"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0016.html#idp483872",
+                "title": "Setting listeners"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0016.html#idp505792",
+                "title": "Using anonymous inner classes"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0016.html#idp519664",
+                "title": "Making toasts"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0016.html#idp545200",
+                "title": "Using auto-complete"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0017.html#generator",
+                "title": "Running on the Emulator"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0018.html#generator",
+                "title": "For the More Curious: Android Build Process"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0018.html#idp614176",
+                "title": "Android build tools"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0019.html#generator",
+                "title": "2. Android and Model-View-Controller"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0019.html#idp635248",
+                "title": "Creating a New Class"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0019.html#idp650480",
+                "title": "Generating getters and setters"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0020.html#generator",
+                "title": "Model-View-Controller and Android"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0020.html#idp714384",
+                "title": "Benefits of MVC"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0021.html#generator",
+                "title": "Updating the View Layer"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0022.html#generator",
+                "title": "Updating the Controller Layer"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0023.html#generator",
+                "title": "Running on a Device"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0023.html#idp799120",
+                "title": "Connecting your device"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0023.html#idp813056",
+                "title": "Configuring your device for development"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0024.html#generator",
+                "title": "Adding an Icon"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0024.html#idp848128",
+                "title": "Adding resources to a project"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0024.html#idp866928",
+                "title": "Referencing resources in XML"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0025.html#generator",
+                "title": "Challenges"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0026.html#generator",
+                "title": "Challenge: Add a Listener to the TextView"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0027.html#generator",
+                "title": "Challenge: Add a Previous Button"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0028.html#generator",
+                "title": "Challenge: From Button to ImageButton"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0029.html#generator",
+                "title": "3. The Activity Lifecycle"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0029.html#idp964800",
+                "title": "Logging the Activity Lifecycle"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0029.html#idp966320",
+                "title": "Making log messages"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0029.html#idp996336",
+                "title": "Using LogCat"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0030.html#generator",
+                "title": "Rotation and the Activity Lifecycle"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0030.html#idp1071088",
+                "title": "Device configurations and alternative resources"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0030.html#idp1077808",
+                "title": "Creating a landscape layout"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0031.html#generator",
+                "title": "Saving Data Across Rotation"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0031.html#idp1150448",
+                "title": "Overriding onSaveInstanceState(Bundle)"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0032.html#generator",
+                "title": "The Activity Lifecycle, Revisited"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0033.html#generator",
+                "title": "For the More Curious: Testing onSaveInstanceState(Bundle)"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0034.html#generator",
+                "title": "For the More Curious: Logging Levels and Methods"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0035.html#generator",
+                "title": "4. Debugging Android Apps"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0035.html#idp1239664",
+                "title": "The DDMS Perspective"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0036.html#generator",
+                "title": "Exceptions and Stack Traces"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0036.html#idp1277872",
+                "title": "Diagnosing misbehaviors"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0036.html#idp1292304",
+                "title": "Logging stack traces"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0036.html#idp1319424",
+                "title": "Setting breakpoints"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0036.html#idp1406192",
+                "title": "Using exception breakpoints"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0037.html#generator",
+                "title": "File Explorer"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0038.html#generator",
+                "title": "Android-Specific Debugging"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0038.html#idp1436816",
+                "title": "Using Android Lint"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0038.html#sec-issues_with_R_java",
+                "title": "Issues with the R class"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0039.html#generator",
+                "title": "5. Your Second Activity"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0039.html#idp1501040",
+                "title": "Setting Up a Second Activity"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0039.html#idp1506624",
+                "title": "Creating a new layout"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0039.html#idp1542016",
+                "title": "Creating a new activity subclass"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0039.html#idp1557232",
+                "title": "Declaring activities in the manifest"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0039.html#idp1574048",
+                "title": "Adding a Cheat button to QuizActivity"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0040.html#generator",
+                "title": "Starting an Activity"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0040.html#idp1606064",
+                "title": "Communicating with intents"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0040.html#idp1631376",
+                "title": "Explicit and implicit intents"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0041.html#generator",
+                "title": "Passing Data Between Activities"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0041.html#idp1654192",
+                "title": "Using intent extras"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0041.html#idp1705504",
+                "title": "Getting a result back from a child activity"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0041.html#idp1720512",
+                "title": "Setting a result"
+            },
+            {
+                "depth": 5,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0041.html#idp1730688",
+                "title": "Sending back an intent"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0041.html#idp1759296",
+                "title": "Handling a result"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0042.html#generator",
+                "title": "How Android Sees Your Activities"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0043.html#generator",
+                "title": "Challenge"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0044.html#generator",
+                "title": "6. Android SDK Versions and Compatibility"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0044.html#idp1825024",
+                "title": "Android SDK Versions"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0045.html#generator",
+                "title": "Compatibility and Android Programming"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0045.html#idp1881936",
+                "title": "Honeycomb was big"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0045.html#idp1905200",
+                "title": "Minimum SDK version"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0045.html#idp1910272",
+                "title": "Target SDK version"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0045.html#idp1915280",
+                "title": "Build SDK version"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0045.html#idp1928352",
+                "title": "Adding code from later APIs safely"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0045.html#idp1955728",
+                "title": "Suppressing Lint compatibility errors"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0046.html#generator",
+                "title": "Using the Android Developer Documentation"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0047.html#generator",
+                "title": "Challenge: Reporting the Build Version"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0048.html#generator",
+                "title": "7. UI Fragments and the Fragment Manager"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0048.html#idp2025696",
+                "title": "The Need for UI Flexibility"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0049.html#generator",
+                "title": "Introducing Fragments"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0050.html#generator",
+                "title": "Starting CriminalIntent"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0050.html#idp2088464",
+                "title": "Creating a new project"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0050.html#idp2101360",
+                "title": "Fragments and the support library"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0050.html#idp2136816",
+                "title": "Creating the Crime class"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0051.html#generator",
+                "title": "Hosting a UI Fragment"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0051.html#idp2164304",
+                "title": "The fragment lifecycle"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0051.html#idp2174064",
+                "title": "Two approaches to hosting"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0051.html#idp2185008",
+                "title": "Defining a container view"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0052.html#generator",
+                "title": "Creating a UI Fragment"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0052.html#idp2213696",
+                "title": "Defining CrimeFragment\u2019s layout"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0052.html#idp2241248",
+                "title": "Creating the CrimeFragment class"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0052.html#idp2252096",
+                "title": "Implementing fragment lifecycle methods"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0052.html#idp2286592",
+                "title": "Wiring widgets in a fragment"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0053.html#generator",
+                "title": "Adding a UI Fragment to the FragmentManager"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0053.html#idp2327968",
+                "title": "Fragment transactions"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0053.html#idp2376656",
+                "title": "The FragmentManager and the fragment lifecycle"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0054.html#generator",
+                "title": "The Reason All Our Activities Will Use Fragments"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0055.html#generator",
+                "title": "For the More Curious: Developing for Honeycomb, ICS, Jelly Bean, and Beyond"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0056.html#generator",
+                "title": "8. Creating User Interfaces with Layouts and Widgets"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0056.html#idp2441408",
+                "title": "Upgrading Crime"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0057.html#generator",
+                "title": "Updating the Layout"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0058.html#generator",
+                "title": "Wiring Widgets"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0059.html#generator",
+                "title": "More on XML Layout Attributes"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0059.html#idp2509360",
+                "title": "Styles, themes, and theme attributes"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0059.html#idp2526384",
+                "title": "Screen pixel densities and dp and sp"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0059.html#idp2553152",
+                "title": "Android\u2019s design guidelines"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0059.html#idp2558672",
+                "title": "Layout parameters"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0059.html#idp2570448",
+                "title": "Margins vs. padding"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0060.html#generator",
+                "title": "Using the Graphical Layout Tool"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0060.html#idp2615696",
+                "title": "Adding a new widget"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0060.html#idp2623824",
+                "title": "Editing attributes in properties"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0060.html#idp2634512",
+                "title": "Reorganizing widgets in the outline view"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0060.html#idp2652800",
+                "title": "Updating child layout parameters"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0060.html#idp2668768",
+                "title": "How android:layout_weight works"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0060.html#idp2705504",
+                "title": "Summary of graphical layout tool"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0060.html#idp2708912",
+                "title": "Widget IDs and multiple layouts"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0061.html#generator",
+                "title": "Challenge: Formatting the Date"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0062.html#generator",
+                "title": "9. Displaying Lists with ListFragment"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0062.html#idp2745584",
+                "title": "Updating CriminalIntent\u2019s Model Layer"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0062.html#idp2749504",
+                "title": "Singletons and centralized data storage"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0063.html#generator",
+                "title": "Creating a ListFragment"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0064.html#generator",
+                "title": "An Abstract Activity for Hosting a Fragment"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0064.html#idp2825584",
+                "title": "A generic fragment-hosting layout"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0064.html#idp2842192",
+                "title": "An abstract Activity class"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0064.html#idp2869280",
+                "title": "Using an abstract class"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0064.html#idp2892352",
+                "title": "Declaring CrimeListActivity"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0065.html#generator",
+                "title": "ListFragment, ListView, and ArrayAdapter"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0065.html#idp2965344",
+                "title": "Creating an ArrayAdapter<T>"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0065.html#idp3008320",
+                "title": "Responding to list item clicks"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0066.html#generator",
+                "title": "Customizing List Items"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0066.html#idp3033952",
+                "title": "Creating the list item layout"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0066.html#idp3060672",
+                "title": "Creating an adapter subclass"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0067.html#generator",
+                "title": "10. Using Fragment Arguments"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0067.html#idp3122048",
+                "title": "Starting an Activity from a Fragment"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0067.html#idp3144272",
+                "title": "Putting an extra"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0067.html#idp3157104",
+                "title": "Retrieving an extra"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0067.html#idp3181136",
+                "title": "Updating CrimeFragment\u2019s view with Crime data"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0067.html#idp3192304",
+                "title": "The downside to direct retrieval"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0068.html#generator",
+                "title": "Fragment Arguments"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0068.html#idp3219920",
+                "title": "Attaching arguments to a fragment"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0068.html#idp3243696",
+                "title": "Retrieving arguments"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0069.html#generator",
+                "title": "Reloading the List"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0070.html#generator",
+                "title": "Getting Results with Fragments"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0071.html#generator",
+                "title": "11. Using ViewPager"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0071.html#idp3321472",
+                "title": "Creating CrimePagerActivity"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0071.html#idp3329008",
+                "title": "Laying out views in code"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0071.html#idp3338448",
+                "title": "Standalone ID resources"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0071.html#idp3350976",
+                "title": "ViewPager and PagerAdapter"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0071.html#idp3385040",
+                "title": "Integrating CrimePagerActivity"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0071.html#idp3450832",
+                "title": "FragmentStatePagerAdapter vs. FragmentPagerAdapter"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0072.html#generator",
+                "title": "For the More Curious: How ViewPager Really Works"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0073.html#generator",
+                "title": "12. Dialogs"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0073.html#idp3548736",
+                "title": "Creating a DialogFragment"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0073.html#idp3584608",
+                "title": "Showing a DialogFragment"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0073.html#idp3606320",
+                "title": "Setting a dialog\u2019s contents"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0074.html#generator",
+                "title": "Passing Data Between Two Fragments"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0074.html#idp3659136",
+                "title": "Passing data to DatePickerFragment"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0074.html#idp3698352",
+                "title": "Returning data to CrimeFragment"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0074.html#idp3702048",
+                "title": "Setting a target fragment"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0074.html#idp3720288",
+                "title": "Sending data to the target fragment"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0074.html#idp3753648",
+                "title": "More flexibility in presenting a DialogFragment"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0075.html#generator",
+                "title": "Challenge: More Dialogs"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0076.html#generator",
+                "title": "13. Audio Playback Using MediaPlayer"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0076.html#idp3789840",
+                "title": "Adding Resources"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0077.html#generator",
+                "title": "Defining the layout for HelloMoonFragment"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0077.html#idp3840144",
+                "title": "Manually resetting the app theme"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0078.html#generator",
+                "title": "Creating HelloMoonFragment"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0079.html#generator",
+                "title": "Using a Layout Fragment"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0080.html#generator",
+                "title": "Audio Playback"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0080.html#idp3940592",
+                "title": "Wiring buttons to play and stop"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0081.html#generator",
+                "title": "Challenge: Pausing Audio Playback"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0082.html#generator",
+                "title": "For the More Curious: Playing Video"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0083.html#generator",
+                "title": "Challenge: Playing Video in HelloMoon"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0084.html#generator",
+                "title": "14. Retained Fragments"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0084.html#idp3985248",
+                "title": "Retaining a Fragment"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0085.html#generator",
+                "title": "Rotation and Retained Fragments"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0086.html#generator",
+                "title": "Retained Fragments: As Nice as All That?"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0087.html#generator",
+                "title": "Rotation Handling and onSaveInstanceState(Bundle)"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0088.html#generator",
+                "title": "For the More Curious: Rotation Before Fragments"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0089.html#generator",
+                "title": "15. Localization"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0089.html#idp4089568",
+                "title": "Localizing Resources"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0089.html#idp4108128",
+                "title": "Default resources"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0089.html#idp4116176",
+                "title": "Screen density works differently"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0090.html#generator",
+                "title": "Configuration Qualifiers"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0090.html#idp4145760",
+                "title": "Prioritizing alternative resources"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0090.html#idp4167120",
+                "title": "Multiple qualifiers"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0090.html#idp4182336",
+                "title": "Finding the best-matching resources"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0090.html#idp4187792",
+                "title": "Ruling out incompatible directories"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0090.html#idp4194512",
+                "title": "Stepping through the precedence table"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0091.html#generator",
+                "title": "More Resource Rules and Regulations"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0091.html#idp4204064",
+                "title": "Resource naming"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0091.html#idp4208880",
+                "title": "Resource directory structure"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0092.html#generator",
+                "title": "Testing Alternative Resources"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0093.html#generator",
+                "title": "16. The Action Bar"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0093.html#idp4243728",
+                "title": "Options Menus"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0093.html#idp4259808",
+                "title": "Defining an options menu in XML"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0093.html#idp4301936",
+                "title": "Using system icons"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0093.html#idp4311392",
+                "title": "Creating the options menu"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0093.html#idp4365808",
+                "title": "Responding to options menu selections"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0094.html#generator",
+                "title": "Enabling Ancestral Navigation"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0094.html#idp4399152",
+                "title": "Enabling the app icon"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0094.html#idp4421472",
+                "title": "Responding to the Up button"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0095.html#generator",
+                "title": "An Alternative Menu Item"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0095.html#idp4491968",
+                "title": "Creating an alternative menu file"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0095.html#idp4506608",
+                "title": "Toggling the menu item title"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0095.html#idp4515696",
+                "title": "\u201cJust one more thing...\u201d"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0096.html#generator",
+                "title": "Challenge: An Empty View for the List"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0097.html#generator",
+                "title": "17. Saving and Loading Local Files"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0097.html#idp4564384",
+                "title": "Saving and Loading Data in CriminalIntent"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0097.html#idp4582320",
+                "title": "Saving crime data to a JSON file"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0097.html#idp4587024",
+                "title": "Creating the CriminalIntentJSONSerializer class"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0097.html#idp4610496",
+                "title": "Making Crime class capable of JSON serialization"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0097.html#idp4621008",
+                "title": "Saving crimes in CrimeLab"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0097.html#idp4635440",
+                "title": "Saving application data in onPause()"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0097.html#idp4644480",
+                "title": "Loading crimes from the filesystem"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0098.html#generator",
+                "title": "Challenge: Use External Storage"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0099.html#generator",
+                "title": "For the More Curious: The Android Filesystem and Java I/O"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0099.html#idp4681872",
+                "title": "Accessing files and directories"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0100.html#generator",
+                "title": "18. Context Menus and Contextual Action Mode"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0100.html#idp4726320",
+                "title": "Defining a Context Menu Resource"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0101.html#generator",
+                "title": "Implementing a Floating Context Menu"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0101.html#idp4744496",
+                "title": "Creating the context menu"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0101.html#idp4754080",
+                "title": "Registering for the context menu"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0101.html#idp4774704",
+                "title": "Responding to an action"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0102.html#generator",
+                "title": "Implementing Contextual Action Mode"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0102.html#idp4811760",
+                "title": "Enabling multiple selection"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0102.html#idp4826368",
+                "title": "Action mode callbacks in a list view"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0102.html#idp4869328",
+                "title": "Changing activated item backgrounds"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0102.html#idp4897584",
+                "title": "Implementing contextual action mode in other views"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0103.html#generator",
+                "title": "Compatibility: Fallback or Duplicate?"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0104.html#generator",
+                "title": "Challenge: Deleting from CrimeFragment"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0105.html#generator",
+                "title": "For the More Curious: ActionBarSherlock"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0106.html#generator",
+                "title": "Challenge: Using ActionBarSherlock"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0106.html#idp4975328",
+                "title": "Basic ABS integration in CriminalIntent"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0106.html#idp4992976",
+                "title": "More advanced integration"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0106.html#idp4996576",
+                "title": "Even more advanced integration"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0107.html#generator",
+                "title": "19. Camera I: Viewfinder"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0107.html#idp5032464",
+                "title": "Creating the Fragment Layout"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0108.html#generator",
+                "title": "Creating CrimeCameraFragment"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0109.html#generator",
+                "title": "Creating CrimeCameraActivity"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0109.html#idp5069968",
+                "title": "Adding activity and camera permissions to the manifest"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0110.html#generator",
+                "title": "Using the Camera API"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0110.html#idp5090112",
+                "title": "Opening and releasing the camera"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0110.html#idp5123344",
+                "title": "SurfaceView, SurfaceHolder, and Surface"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0110.html#idp5208576",
+                "title": "Determining preview size"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0110.html#idp5226800",
+                "title": "Starting CrimeCameraActivity from CrimeFragment"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0110.html#idp5266176",
+                "title": "Hiding the status bar and action bar"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0111.html#generator",
+                "title": "For the More Curious: Running Activities from the Command Line"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0112.html#generator",
+                "title": "20. Camera II: Taking Pictures and Handling Images"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0112.html#idp5316576",
+                "title": "Taking a Picture"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0112.html#idp5346208",
+                "title": "Implementing Camera callbacks"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0112.html#idp5382880",
+                "title": "Setting the picture size"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0113.html#generator",
+                "title": "Passing Data Back to CrimeFragment"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0113.html#idp5409424",
+                "title": "Starting CrimeCameraActivity for a result"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0113.html#idp5416640",
+                "title": "Setting a result in CrimeCameraFragment"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0113.html#idp5425840",
+                "title": "Retrieving filename in CrimeFragment"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0114.html#generator",
+                "title": "Updating the Model Layer"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0114.html#idp5450640",
+                "title": "Adding a Photo class"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0114.html#idp5460048",
+                "title": "Giving Crime a photo property"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0114.html#idp5468352",
+                "title": "Setting the photo property"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0115.html#generator",
+                "title": "Updating CrimeFragment\u2019s View"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0115.html#idp5484960",
+                "title": "Adding an ImageView"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0115.html#idp5502896",
+                "title": "Image handling"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0115.html#idp5508016",
+                "title": "Adding scaled photo to the image view"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0115.html#idp5548624",
+                "title": "Unloading the image"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0116.html#generator",
+                "title": "Showing Larger Image in a DialogFragment"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0117.html#generator",
+                "title": "Challenge: Crime Image Orientation"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0118.html#generator",
+                "title": "Challenge: Deleting Photos"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0119.html#generator",
+                "title": "For the More Curious: Deprecation in Android"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0120.html#generator",
+                "title": "21. Implicit Intents"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0120.html#idp5649184",
+                "title": "Adding Buttons"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0121.html#generator",
+                "title": "Adding a Suspect to the Model Layer"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0122.html#generator",
+                "title": "Using a Format String"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0123.html#generator",
+                "title": "Using Implicit Intents"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0123.html#idp5697696",
+                "title": "Parts of an implicit intent"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0123.html#idp5726272",
+                "title": "Sending a crime report"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0123.html#idp5759648",
+                "title": "Asking Android for a contact"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0123.html#idp5777664",
+                "title": "Getting the data from the contact list"
+            },
+            {
+                "depth": 5,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0123.html#idp5792688",
+                "title": "Contacts permissions"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0123.html#idp5796320",
+                "title": "Checking for responding activities"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0124.html#generator",
+                "title": "Challenge: Another Implicit Intent"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0125.html#generator",
+                "title": "22. Two-Pane Master-Detail Interfaces"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0125.html#idp5838256",
+                "title": "Adding Layout Flexibility"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0125.html#idp5849136",
+                "title": "Modifying SingleFragmentActivity"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0125.html#idp5861168",
+                "title": "Creating a layout with two fragment containers"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0125.html#idp5883856",
+                "title": "Using an alias resource"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0125.html#idp5903568",
+                "title": "Creating tablet alternatives"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0126.html#generator",
+                "title": "Activity: Fragment Boss"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0126.html#idp5946560",
+                "title": "Fragment callback interfaces"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0126.html#idp5952368",
+                "title": "Implementing CrimeListFragment.Callbacks"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0126.html#idp6014192",
+                "title": "Implementing CrimeFragment.Callbacks"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0127.html#generator",
+                "title": "For the More Curious: More on Determining Device Size"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0128.html#generator",
+                "title": "23. More About Intents and Tasks"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0128.html#idp6106752",
+                "title": "Setting Up NerdLauncher"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0129.html#generator",
+                "title": "Resolving an Implicit Intent"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0130.html#generator",
+                "title": "Creating Explicit Intents at Runtime"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0131.html#generator",
+                "title": "Tasks and the Back Stack"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0132.html#generator",
+                "title": "Using NerdLauncher as a Home Screen"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0133.html#generator",
+                "title": "Challenge: Icons, Reordering Tasks"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0134.html#generator",
+                "title": "For the More Curious: Processes vs. Tasks"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0135.html#generator",
+                "title": "24. Styles And Includes"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0135.html#idp6282512",
+                "title": "Setting Up the RemoteControl Project"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0135.html#idp6288336",
+                "title": "Setting up RemoteControlActivity"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0135.html#idp6303408",
+                "title": "Setting up RemoteControlFragment"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0136.html#generator",
+                "title": "Cleaning Up with Styles"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0137.html#generator",
+                "title": "Finishing the Layout"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0138.html#generator",
+                "title": "For the More Curious: include and merge"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0139.html#generator",
+                "title": "Challenge: Style Inheritance"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0140.html#generator",
+                "title": "25. XML Drawables And 9-Patches"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0140.html#idp6420400",
+                "title": "XML Drawables"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0141.html#generator",
+                "title": "State List Drawables"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0142.html#generator",
+                "title": "Layer List and Inset Drawables"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0143.html#generator",
+                "title": "Using 9-Patch Images"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0144.html#generator",
+                "title": "26. HTTP & Background Tasks"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0144.html#idp6619168",
+                "title": "Creating PhotoGallery"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0145.html#generator",
+                "title": "Networking Basics"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0145.html#idp6691584",
+                "title": "Asking permission to network"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0146.html#generator",
+                "title": "Using AsyncTask to Run on a Background Thread"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0147.html#generator",
+                "title": "You and Your Main Thread"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0147.html#idp6741584",
+                "title": "Beyond the main thread"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0148.html#generator",
+                "title": "Fetching XML From Flickr"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0148.html#idp6800688",
+                "title": "Using XmlPullParser"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0149.html#generator",
+                "title": "From AsyncTask Back to the Main Thread"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0150.html#generator",
+                "title": "For the More Curious: More on AsyncTask"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0150.html#idp6894096",
+                "title": "Cleaning Up AsyncTasks"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0151.html#generator",
+                "title": "Challenge: Paging"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0152.html#generator",
+                "title": "27. Loopers, Handlers, and HandlerThread"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0152.html#idp6913056",
+                "title": "Preparing GridView for Displaying Images"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0153.html#generator",
+                "title": "Downloading Lots of Small Things"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0154.html#generator",
+                "title": "Communicating with the Main Thread"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0155.html#generator",
+                "title": "Assembling a Background Thread"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0156.html#generator",
+                "title": "Messages and Message Handlers"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0156.html#idp7012256",
+                "title": "Message anatomy"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0156.html#idp7028816",
+                "title": "Handler anatomy"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0156.html#idp7051376",
+                "title": "Using handlers"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0156.html#idp7100896",
+                "title": "Passing handlers"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0157.html#generator",
+                "title": "For the More Curious: AsyncTask vs. Threads"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0158.html#generator",
+                "title": "Challenge: Preloading and Caching"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0159.html#generator",
+                "title": "28. Search"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0159.html#idp7203296",
+                "title": "Searching Flickr"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0160.html#generator",
+                "title": "The Search Dialog"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0160.html#idp7231184",
+                "title": "Creating a search interface"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0160.html#idp7255776",
+                "title": "Searchable activities"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0160.html#idp7299088",
+                "title": "Hardware search button"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0160.html#idp7304912",
+                "title": "How Search works"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0160.html#idp7315408",
+                "title": "Launch modes and new intents"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0160.html#idp7353168",
+                "title": "Simple persistence with shared preferences"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0161.html#generator",
+                "title": "Using SearchView on Post-Android 3.0"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0162.html#generator",
+                "title": "Challenges"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0163.html#generator",
+                "title": "29. Background Services"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0163.html#idp7453536",
+                "title": "Creating an IntentService"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0164.html#generator",
+                "title": "What Services Are For"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0164.html#idp7496176",
+                "title": "Safe background networking"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0165.html#generator",
+                "title": "Looking for New Results"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0166.html#generator",
+                "title": "Delayed Execution with AlarmManager"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0166.html#idp7569024",
+                "title": "PendingIntent"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0166.html#idp7579424",
+                "title": "Managing alarms with PendingIntent"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0167.html#generator",
+                "title": "Controlling Your Alarm"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0167.html#idp7610208",
+                "title": "Updating options menu items"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0168.html#generator",
+                "title": "Notifications"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0169.html#generator",
+                "title": "For the More Curious: Service Details"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0169.html#idp7686688",
+                "title": "What service does (and does not) do"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0169.html#idp7690480",
+                "title": "A service\u2019s lifecycle"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0169.html#idp7700576",
+                "title": "Non-sticky services"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0169.html#idp7714736",
+                "title": "Sticky services"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0169.html#idp7721088",
+                "title": "Bound services"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0169.html#idp7730768",
+                "title": "Local service binding"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0169.html#idp7735104",
+                "title": "Remote service binding"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0170.html#generator",
+                "title": "30. Broadcast Intents"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0170.html#idp7748400",
+                "title": "Waking Up on Boot"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0170.html#idp7750800",
+                "title": "Broadcast receivers in the manifest"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0170.html#idp7778720",
+                "title": "How to use receivers"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0171.html#generator",
+                "title": "Filtering Foreground Notifications"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0171.html#idp7794608",
+                "title": "Sending broadcast intents"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0171.html#idp7802992",
+                "title": "Dynamic broadcast receivers"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0171.html#idp7836096",
+                "title": "Using private permissions"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0171.html#idp7861184",
+                "title": "More about protection levels"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0171.html#idp7886288",
+                "title": "Receiving results with ordered broadcasts"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0172.html#generator",
+                "title": "Receivers and Long-running Tasks"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0173.html#generator",
+                "title": "31. Browsing The Web & WebView"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0173.html#idp7943168",
+                "title": "One Last Bit of Flickr Data"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0174.html#generator",
+                "title": "The Easy Way: Implicit Intents"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0175.html#generator",
+                "title": "The Harder Way: WebView"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0175.html#idp8030688",
+                "title": "Using WebChromeClient to spruce things up"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0175.html#idp8055440",
+                "title": "Proper rotation with WebView"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0176.html#generator",
+                "title": "For the More Curious: Injecting JavaScript Objects"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0177.html#generator",
+                "title": "32. Custom Views and Touch Events"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0177.html#idp8085856",
+                "title": "Setting Up the DragAndDraw Project"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0177.html#idp8092048",
+                "title": "Setting up DragAndDrawActivity"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0177.html#idp8101408",
+                "title": "Setting up DragAndDrawFragment"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0178.html#generator",
+                "title": "Creating a Custom View"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0178.html#idp8127456",
+                "title": "Creating BoxDrawingView"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0179.html#generator",
+                "title": "Handling Touch Events"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0179.html#idp8191248",
+                "title": "Tracking across motion events"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0180.html#generator",
+                "title": "Rendering Inside onDraw(\u2026)"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0181.html#generator",
+                "title": "Challenge: Rotations"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0182.html#generator",
+                "title": "33. Tracking the Device\u2019s Location"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0182.html#idp8286208",
+                "title": "Getting Started with RunTracker"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0182.html#idp8298960",
+                "title": "Setting up RunActivity"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0182.html#idp8308048",
+                "title": "Setting up RunFragment"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0182.html#idp8314736",
+                "title": "Adding strings"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0182.html#idp8320384",
+                "title": "Obtaining the layout file"
+            },
+            {
+                "depth": 4,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0182.html#idp8327104",
+                "title": "Creating the RunFragment class"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0183.html#generator",
+                "title": "Locations and the LocationManager"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0184.html#generator",
+                "title": "Receiving Broadcast Location Updates"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0185.html#generator",
+                "title": "Updating the UI with Location Data"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0186.html#generator",
+                "title": "Faster Answers: the Last Known Location"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0187.html#generator",
+                "title": "Testing Locations on Real and Virtual Devices"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0188.html#generator",
+                "title": "34. Local Databases with SQLite"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0188.html#idp8475824",
+                "title": "Storing Runs and Locations in a Database"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0189.html#generator",
+                "title": "Querying a List of Runs From the Database"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0190.html#generator",
+                "title": "Displaying a List of Runs Using CursorAdapter"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0191.html#generator",
+                "title": "Creating New Runs"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0192.html#generator",
+                "title": "Working with Existing Runs"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0193.html#generator",
+                "title": "Challenge: Identifying the Current Run"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0194.html#generator",
+                "title": "35. Loading Asynchronous Data With Loaders"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0194.html#idp8744016",
+                "title": "Loaders and the LoaderManager"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0195.html#generator",
+                "title": "Using Loaders in RunTracker"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0196.html#generator",
+                "title": "Loading the List of Runs"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0197.html#generator",
+                "title": "Loading a Single Run"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0198.html#generator",
+                "title": "Loading the Last Location for a Run"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0199.html#generator",
+                "title": "36. Using Maps"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0199.html#idp8905632",
+                "title": "Adding the Maps API to RunTracker"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0199.html#idp8906864",
+                "title": "Use a real device to test maps"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0199.html#idp8908592",
+                "title": "Install and use the Google Play services SDK"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0199.html#idp8919968",
+                "title": "Obtain a Google Maps API key"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0199.html#idp8923040",
+                "title": "Update RunTracker\u2019s manifest"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0200.html#generator",
+                "title": "Showing the User\u2019s Location on a Map"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0201.html#generator",
+                "title": "Displaying a Run\u2019s Path"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0202.html#generator",
+                "title": "Adding Markers for Run Start and Finish"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0203.html#generator",
+                "title": "Challenge: Live Updates"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0204.html#generator",
+                "title": "37. Afterword"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0204.html#idp9035920",
+                "title": "The Final Challenge"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0205.html#generator",
+                "title": "Shameless Plugs"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0206.html#generator",
+                "title": "Thank You"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0207.html#generator",
+                "title": "Index"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0208.html#generator",
+                "title": "More From Big Nerd Ranch..."
+            }
+        ],
+        "pages": [
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0000.html",
+                "title": "Android Programming: The Big Nerd Ranch Guide"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0001.html",
+                "title": "Dedication"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0002.html",
+                "title": "Acknowledgments"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0003.html",
+                "title": "Table of Contents"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0004.html",
+                "title": "Learning Android"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0005.html",
+                "title": "How to Use This Book"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0006.html",
+                "title": "How This Book Is Organized"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0007.html",
+                "title": "Code Style"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0008.html",
+                "title": "Typographical Conventions"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0009.html",
+                "title": "Using an eBook"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0010.html",
+                "title": "The Necessary Tools"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0011.html",
+                "title": "1 Your First Android Application"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0012.html",
+                "title": "Creating an Android Project"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0013.html",
+                "title": "Navigating in Eclipse"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0014.html",
+                "title": "Laying Out the User Interface"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0015.html",
+                "title": "From Layout XML to View Objects"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0016.html",
+                "title": "Wiring Up Widgets"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0017.html",
+                "title": "Running on the Emulator"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0018.html",
+                "title": "For the More Curious: Android Build Process"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0019.html",
+                "title": "2 Android and Model-View-Controller"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0020.html",
+                "title": "Model-View-Controller and Android"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0021.html",
+                "title": "Updating the View Layer"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0022.html",
+                "title": "Updating the Controller Layer"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0023.html",
+                "title": "Running on a Device"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0024.html",
+                "title": "Adding an Icon"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0025.html",
+                "title": "Challenges"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0026.html",
+                "title": "Challenge: Add a Listener to the TextView"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0027.html",
+                "title": "Challenge: Add a Previous Button"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0028.html",
+                "title": "Challenge: From Button to ImageButton"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0029.html",
+                "title": "3 The Activity Lifecycle"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0030.html",
+                "title": "Rotation and the Activity Lifecycle"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0031.html",
+                "title": "Saving Data Across Rotation"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0032.html",
+                "title": "The Activity Lifecycle, Revisited"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0033.html",
+                "title": "For the More Curious: Testing onSaveInstanceState(Bundle)"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0034.html",
+                "title": "For the More Curious: Logging Levels and Methods"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0035.html",
+                "title": "4 Debugging Android Apps"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0036.html",
+                "title": "Exceptions and Stack Traces"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0037.html",
+                "title": "File Explorer"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0038.html",
+                "title": "Android-Specific Debugging"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0039.html",
+                "title": "5 Your Second Activity"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0040.html",
+                "title": "Starting an Activity"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0041.html",
+                "title": "Passing Data Between Activities"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0042.html",
+                "title": "How Android Sees Your Activities"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0043.html",
+                "title": "Challenge"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0044.html",
+                "title": "6 Android SDK Versions and Compatibility"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0045.html",
+                "title": "Compatibility and Android Programming"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0046.html",
+                "title": "Using the Android Developer Documentation"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0047.html",
+                "title": "Challenge: Reporting the Build Version"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0048.html",
+                "title": "7 UI Fragments and the Fragment Manager"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0049.html",
+                "title": "Introducing Fragments"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0050.html",
+                "title": "Starting CriminalIntent"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0051.html",
+                "title": "Hosting a UI Fragment"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0052.html",
+                "title": "Creating a UI Fragment"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0053.html",
+                "title": "Adding a UI Fragment to the FragmentManager"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0054.html",
+                "title": "The Reason All Our Activities Will Use Fragments"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0055.html",
+                "title": "For the More Curious: Developing for Honeycomb, ICS, Jelly Bean, and Beyond"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0056.html",
+                "title": "8 Creating User Interfaces with Layouts and Widgets"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0057.html",
+                "title": "Updating the Layout"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0058.html",
+                "title": "Wiring Widgets"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0059.html",
+                "title": "More on XML Layout Attributes"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0060.html",
+                "title": "Using the Graphical Layout Tool"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0061.html",
+                "title": "Challenge: Formatting the Date"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0062.html",
+                "title": "9 Displaying Lists with ListFragment"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0063.html",
+                "title": "Creating a ListFragment"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0064.html",
+                "title": "An Abstract Activity for Hosting a Fragment"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0065.html",
+                "title": "ListFragment, ListView, and ArrayAdapter"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0066.html",
+                "title": "Customizing List Items"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0067.html",
+                "title": "10 Using Fragment Arguments"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0068.html",
+                "title": "Fragment Arguments"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0069.html",
+                "title": "Reloading the List"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0070.html",
+                "title": "Getting Results with Fragments"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0071.html",
+                "title": "11 Using ViewPager"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0072.html",
+                "title": "For the More Curious: How ViewPager Really Works"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0073.html",
+                "title": "12 Dialogs"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0074.html",
+                "title": "Passing Data Between Two Fragments"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0075.html",
+                "title": "Challenge: More Dialogs"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0076.html",
+                "title": "13 Audio Playback Using MediaPlayer"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0077.html",
+                "title": "Defining the layout for HelloMoonFragment"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0078.html",
+                "title": "Creating HelloMoonFragment"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0079.html",
+                "title": "Using a Layout Fragment"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0080.html",
+                "title": "Audio Playback"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0081.html",
+                "title": "Challenge: Pausing Audio Playback"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0082.html",
+                "title": "For the More Curious: Playing Video"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0083.html",
+                "title": "Challenge: Playing Video in HelloMoon"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0084.html",
+                "title": "14 Retained Fragments"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0085.html",
+                "title": "Rotation and Retained Fragments"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0086.html",
+                "title": "Retained Fragments: As Nice as All That?"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0087.html",
+                "title": "Rotation Handling and onSaveInstanceState(Bundle)"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0088.html",
+                "title": "For the More Curious: Rotation Before Fragments"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0089.html",
+                "title": "15 Localization"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0090.html",
+                "title": "Configuration Qualifiers"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0091.html",
+                "title": "More Resource Rules and Regulations"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0092.html",
+                "title": "Testing Alternative Resources"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0093.html",
+                "title": "16 The Action Bar"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0094.html",
+                "title": "Enabling Ancestral Navigation"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0095.html",
+                "title": "An Alternative Menu Item"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0096.html",
+                "title": "Challenge: An Empty View for the List"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0097.html",
+                "title": "17 Saving and Loading Local Files"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0098.html",
+                "title": "Challenge: Use External Storage"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0099.html",
+                "title": "For the More Curious: The Android Filesystem and Java I/O"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0100.html",
+                "title": "18 Context Menus and Contextual Action Mode"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0101.html",
+                "title": "Implementing a Floating Context Menu"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0102.html",
+                "title": "Implementing Contextual Action Mode"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0103.html",
+                "title": "Compatibility: Fallback or Duplicate?"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0104.html",
+                "title": "Challenge: Deleting from CrimeFragment"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0105.html",
+                "title": "For the More Curious: ActionBarSherlock"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0106.html",
+                "title": "Challenge: Using ActionBarSherlock"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0107.html",
+                "title": "19 Camera I: Viewfinder"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0108.html",
+                "title": "Creating CrimeCameraFragment"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0109.html",
+                "title": "Creating CrimeCameraActivity"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0110.html",
+                "title": "Using the Camera API"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0111.html",
+                "title": "For the More Curious: Running Activities from the Command Line"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0112.html",
+                "title": "20 Camera II: Taking Pictures and Handling Images"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0113.html",
+                "title": "Passing Data Back to CrimeFragment"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0114.html",
+                "title": "Updating the Model Layer"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0115.html",
+                "title": "Updating CrimeFragment\u2019s View"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0116.html",
+                "title": "Showing Larger Image in a DialogFragment"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0117.html",
+                "title": "Challenge: Crime Image Orientation"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0118.html",
+                "title": "Challenge: Deleting Photos"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0119.html",
+                "title": "For the More Curious: Deprecation in Android"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0120.html",
+                "title": "21 Implicit Intents"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0121.html",
+                "title": "Adding a Suspect to the Model Layer"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0122.html",
+                "title": "Using a Format String"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0123.html",
+                "title": "Using Implicit Intents"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0124.html",
+                "title": "Challenge: Another Implicit Intent"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0125.html",
+                "title": "22 Two-Pane Master-Detail Interfaces"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0126.html",
+                "title": "Activity: Fragment Boss"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0127.html",
+                "title": "For the More Curious: More on Determining Device Size"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0128.html",
+                "title": "23 More About Intents and Tasks"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0129.html",
+                "title": "Resolving an Implicit Intent"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0130.html",
+                "title": "Creating Explicit Intents at Runtime"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0131.html",
+                "title": "Tasks and the Back Stack"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0132.html",
+                "title": "Using NerdLauncher as a Home Screen"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0133.html",
+                "title": "Challenge: Icons, Reordering Tasks"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0134.html",
+                "title": "For the More Curious: Processes vs. Tasks"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0135.html",
+                "title": "24 Styles And Includes"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0136.html",
+                "title": "Cleaning Up with Styles"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0137.html",
+                "title": "Finishing the Layout"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0138.html",
+                "title": "For the More Curious: include and merge"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0139.html",
+                "title": "Challenge: Style Inheritance"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0140.html",
+                "title": "25 XML Drawables And 9-Patches"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0141.html",
+                "title": "State List Drawables"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0142.html",
+                "title": "Layer List and Inset Drawables"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0143.html",
+                "title": "Using 9-Patch Images"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0144.html",
+                "title": "26 HTTP & Background Tasks"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0145.html",
+                "title": "Networking Basics"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0146.html",
+                "title": "Using AsyncTask to Run on a Background Thread"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0147.html",
+                "title": "You and Your Main Thread"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0148.html",
+                "title": "Fetching XML From Flickr"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0149.html",
+                "title": "From AsyncTask Back to the Main Thread"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0150.html",
+                "title": "For the More Curious: More on AsyncTask"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0151.html",
+                "title": "Challenge: Paging"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0152.html",
+                "title": "27 Loopers, Handlers, and HandlerThread"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0153.html",
+                "title": "Downloading Lots of Small Things"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0154.html",
+                "title": "Communicating with the Main Thread"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0155.html",
+                "title": "Assembling a Background Thread"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0156.html",
+                "title": "Messages and Message Handlers"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0157.html",
+                "title": "For the More Curious: AsyncTask vs. Threads"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0158.html",
+                "title": "Challenge: Preloading and Caching"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0159.html",
+                "title": "28 Search"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0160.html",
+                "title": "The Search Dialog"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0161.html",
+                "title": "Using SearchView on Post-Android 3.0"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0162.html",
+                "title": "Challenges"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0163.html",
+                "title": "29 Background Services"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0164.html",
+                "title": "What Services Are For"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0165.html",
+                "title": "Looking for New Results"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0166.html",
+                "title": "Delayed Execution with AlarmManager"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0167.html",
+                "title": "Controlling Your Alarm"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0168.html",
+                "title": "Notifications"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0169.html",
+                "title": "For the More Curious: Service Details"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0170.html",
+                "title": "30 Broadcast Intents"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0171.html",
+                "title": "Filtering Foreground Notifications"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0172.html",
+                "title": "Receivers and Long-running Tasks"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0173.html",
+                "title": "31 Browsing The Web & WebView"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0174.html",
+                "title": "The Easy Way: Implicit Intents"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0175.html",
+                "title": "The Harder Way: WebView"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0176.html",
+                "title": "For the More Curious: Injecting JavaScript Objects"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0177.html",
+                "title": "32 Custom Views and Touch Events"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0178.html",
+                "title": "Creating a Custom View"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0179.html",
+                "title": "Handling Touch Events"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0180.html",
+                "title": "Rendering Inside onDraw(\u2026)"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0181.html",
+                "title": "Challenge: Rotations"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0182.html",
+                "title": "33 Tracking the Device\u2019s Location"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0183.html",
+                "title": "Locations and the LocationManager"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0184.html",
+                "title": "Receiving Broadcast Location Updates"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0185.html",
+                "title": "Updating the UI with Location Data"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0186.html",
+                "title": "Faster Answers: the Last Known Location"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0187.html",
+                "title": "Testing Locations on Real and Virtual Devices"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0188.html",
+                "title": "34 Local Databases with SQLite"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0189.html",
+                "title": "Querying a List of Runs From the Database"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0190.html",
+                "title": "Displaying a List of Runs Using CursorAdapter"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0191.html",
+                "title": "Creating New Runs"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0192.html",
+                "title": "Working with Existing Runs"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0193.html",
+                "title": "Challenge: Identifying the Current Run"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0194.html",
+                "title": "35 Loading Asynchronous Data With Loaders"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0195.html",
+                "title": "Using Loaders in RunTracker"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0196.html",
+                "title": "Loading the List of Runs"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0197.html",
+                "title": "Loading a Single Run"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0198.html",
+                "title": "Loading the Last Location for a Run"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0199.html",
+                "title": "36 Using Maps"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0200.html",
+                "title": "Showing the User\u2019s Location on a Map"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0201.html",
+                "title": "Displaying a Run\u2019s Path"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0202.html",
+                "title": "Adding Markers for Run Start and Finish"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0203.html",
+                "title": "Challenge: Live Updates"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0204.html",
+                "title": "37 Afterword"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0205.html",
+                "title": "Shameless Plugs"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0206.html",
+                "title": "Thank You"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0207.html",
+                "title": "Index"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/android-prog/OEBPS/Text/part0208.html",
+                "title": "More From Big Nerd Ranch..."
+            }
+        ]
+    },
+    "momofuku": {
+        "toc": [
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/momofuku/OEBPS/Chan_9780307885678_epub_cvi_r1.htm",
+                "title": "Cover"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/momofuku/OEBPS/Chan_9780307885678_epub_tp_r1.htm",
+                "title": "Title Page"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/momofuku/OEBPS/Chan_9780307885678_epub_cop_r1.htm",
+                "title": "Copyright"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/momofuku/OEBPS/Chan_9780307885678_epub_ded_r1.htm",
+                "title": "Dedication"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/momofuku/OEBPS/Chan_9780307885678_epub_toc_r1.htm",
+                "title": "Contents"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/momofuku/OEBPS/Chan_9780307885678_epub_itr_r1.htm",
+                "title": "Introduction"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/momofuku/OEBPS/Chan_9780307885678_epub_c01_r1.htm",
+                "title": "Chapter 1 - Noodle Bar"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/momofuku/OEBPS/Chan_9780307885678_epub_c02_r1.htm",
+                "title": "Chapter 2 - Ss\u00e4m Bar"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/momofuku/OEBPS/Chan_9780307885678_epub_c03_r1.htm",
+                "title": "Chapter 3 - Ko"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/momofuku/OEBPS/Chan_9780307885678_epub_src_r1.htm",
+                "title": "Sources"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/momofuku/OEBPS/Chan_9780307885678_epub_ack_r1.htm",
+                "title": "Acknowledgments"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/momofuku/OEBPS/Chan_9780307885678_epub_ind_r1.htm",
+                "title": "Index"
+            }
+        ],
+        "pages": [
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/momofuku/OEBPS/Chan_9780307885678_epub_cvi_r1.htm",
+                "title": "Momofuku"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/momofuku/OEBPS/Chan_9780307885678_epub_tp_r1.htm",
+                "title": "Momofuku"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/momofuku/OEBPS/Chan_9780307885678_epub_cop_r1.htm",
+                "title": "Momofuku"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/momofuku/OEBPS/Chan_9780307885678_epub_ded_r1.htm",
+                "title": "Momofuku"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/momofuku/OEBPS/Chan_9780307885678_epub_toc_r1.htm",
+                "title": "contents"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/momofuku/OEBPS/Chan_9780307885678_epub_fm2_r1.htm",
+                "title": "Momofuku"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/momofuku/OEBPS/Chan_9780307885678_epub_itr_r1.htm",
+                "title": "introduction"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/momofuku/OEBPS/Chan_9780307885678_epub_c01_r1.htm",
+                "title": ""
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/momofuku/OEBPS/Chan_9780307885678_epub_c02_r1.htm",
+                "title": ""
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/momofuku/OEBPS/Chan_9780307885678_epub_c03_r1.htm",
+                "title": ""
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/momofuku/OEBPS/Chan_9780307885678_epub_src_r1.htm",
+                "title": "sources"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/momofuku/OEBPS/Chan_9780307885678_epub_ack_r1.htm",
+                "title": "acknowledgments"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/momofuku/OEBPS/Chan_9780307885678_epub_ind_r1.htm",
+                "title": "index"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/momofuku/OEBPS/Chan_9780307885678_epub_bm1_r1.htm",
+                "title": "Momofuku"
+            }
+        ]
+    },
+    "binder": {
+        "toc": [
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder.html",
+                "title": "Android Binder - Android Interprocess Communication"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split1.html",
+                "title": "Abstract"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split2.html",
+                "title": "1. Introduction"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split3.html",
+                "title": "2. Background"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split3.html#c21",
+                "title": "2.1. Multitasking, Processes and Threads"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split3.html#c22",
+                "title": "2.2. Process Isolation"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split3.html#c23",
+                "title": "2.3. User Space and Kernel Space"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split3.html#c24",
+                "title": "2.4. Interprocess Communication in Linux"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split4.html",
+                "title": "3. Android"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split4.html#c31",
+                "title": "3.1. Kernel"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split4.html#c32",
+                "title": "3.2. Programming Languages"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split4.html#c33",
+                "title": "3.3. Java Native Interface"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split4.html#c34",
+                "title": "3.4. Dalvik Virtual Machine"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split4.html#c35",
+                "title": "3.5. Zygote"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split4.html#c36",
+                "title": "3.6. Application Concept"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split4.html#c37",
+                "title": "3.7. Component Communication Concepts"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split4.html#c38",
+                "title": "3.8. Security Concept"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split5.html",
+                "title": "4. Binder"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split5.html#c41",
+                "title": "4.1. Origin"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split5.html#c42",
+                "title": "4.2. Binder Terminology"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split5.html#c43",
+                "title": "4.3. Facilities"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split5.html#c44",
+                "title": "4.4. Concepts"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split5.html#c45",
+                "title": "4.5. Context Manager"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split5.html#c46",
+                "title": "4.6. Intents"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split5.html#c47",
+                "title": "4.7. System Integration"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split5.html#c48",
+                "title": "4.8. Security Model"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split6.html",
+                "title": "5. Implementation of the Binder Framework"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split6.html#c51",
+                "title": "5.1. AIDL"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split6.html#c52",
+                "title": "5.2. Java API Wrapper"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split6.html#c53",
+                "title": "5.3. C++ Middleware"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split6.html#c54",
+                "title": "5.4. C Kernel Driver"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split7.html",
+                "title": "6. Example IPC Message Flow"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split7.html#c61",
+                "title": "6.1. Testing Environment"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split7.html#c62",
+                "title": "6.2. Message Flow and Call Stacks"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split8.html",
+                "title": "7. Discussion"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split9.html",
+                "title": "A. Bibliography"
+            }
+        ],
+        "pages": [
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/binder/titlepage.html",
+                "title": "Cover"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder.html",
+                "title": "Android Binder - Android Interprocess Communication"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split1.html",
+                "title": "Abstract"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split2.html",
+                "title": "1. Introduction"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split3.html",
+                "title": "2. Background"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split4.html",
+                "title": "3. Android"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split5.html",
+                "title": "4. Binder"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split6.html",
+                "title": "5. Implementation of the Binder Framework"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split7.html",
+                "title": "6. Example IPC Message Flow"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split8.html",
+                "title": "7. Discussion"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/binder/binder_split9.html",
+                "title": "A. Bibliography"
+            }
+        ]
+    },
+    "effcpp2": {
+        "toc": [
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/title.html",
+                "title": "Title Page"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/copyrightpg.html",
+                "title": "Copyright Page"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/ded01.html",
+                "title": "Dedication Page"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/toc01.html",
+                "title": "Contents"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/pref01.html",
+                "title": "Praise for More Effective C++: 35 New Ways to Improve Your Programs and Designs"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/pref02.html",
+                "title": "Addison-Wesley Professional Computing Series"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/ack.html",
+                "title": "Acknowledgments"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/intro.html",
+                "title": "Introduction"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/base.html",
+                "title": "Basics"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/oper.html",
+                "title": "Operators"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/exce.html",
+                "title": "Exceptions"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/effici.html",
+                "title": "Efficiency"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/tech.html",
+                "title": "Techniques"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/misce.html",
+                "title": "Miscellany"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/recread.html",
+                "title": "Recommended Reading"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/anauto.html",
+                "title": "An auto_ptr Implementation"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/generalindex.html",
+                "title": "General Index"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/indexofex.html",
+                "title": "Index of Example Classes Functions, and Templates"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/footnote.html",
+                "title": "Footnotes"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/footnote.html#fn01sec1",
+                "title": "Basics"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/footnote.html#fn01sec2",
+                "title": "Operators"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/footnote.html#fn01sec3",
+                "title": "Exceptions"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/footnote.html#fn01sec4",
+                "title": "Efficiency"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/footnote.html#fn01sec5",
+                "title": "Techniques"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/footnote.html#fn01sec6a",
+                "title": "Recommended Reading"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/footnote.html#fn01sec6",
+                "title": "An auto_ptr Implementation"
+            }
+        ],
+        "pages": [
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/cover.html",
+                "title": "More Effective C++"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/pref01.html",
+                "title": "Praise for  More Effective C++: 35 New Ways to Improve Your Programs and Designs"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/pref02.html",
+                "title": "Addison-Wesley Professional Computing Series"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/title.html",
+                "title": "More Effective C++"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/copyrightpg.html",
+                "title": "More Effective C++"
+            },
+            {
+                "depth": 1,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/ded01.html",
+                "title": "More Effective C++"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/toc01.html",
+                "title": "Contents"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/ack.html",
+                "title": "Acknowledgments"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/intro.html",
+                "title": "Introduction"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/base.html",
+                "title": "Basics"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/oper.html",
+                "title": "Operators"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/exce.html",
+                "title": "Exceptions"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/effici.html",
+                "title": "Efficiency"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/tech.html",
+                "title": "Techniques"
+            },
+            {
+                "depth": 3,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/tech1.html",
+                "title": "Item 30: Proxy classes"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/misce.html",
+                "title": "Miscellany"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/recread.html",
+                "title": "Recommended Reading"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/anauto.html",
+                "title": "An  auto_ptr  Implementation"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/generalindex.html",
+                "title": "General Index"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/indexofex.html",
+                "title": "Index of Example Classes, Functions, and Templates"
+            },
+            {
+                "depth": 2,
+                "href": "/Users/rshih/Google%20Drive/e/effcpp2/OEBPS/html/footnote.html",
+                "title": "Footnotes"
+            }
+        ]
     }
 };

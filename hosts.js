@@ -8,6 +8,8 @@ var hosts = {
   "mein-deutschbuch.de": db["deutschbuch"],
   "deutschegrammatik20.de": db["grammatik20"],
   "zh.wikisource.org/wiki/%E7%B4%85%E6%A8%93%E5%A4%A2": db["stone"],
+  "gameprogrammingpatterns.com": db["gameprogrammingpatterns"],
+  "github.com/getify/You-Dont-Know-JS": db["you-dont-know-js"],
   "/Users/rshih/Google%20Drive/e/progit_de/": db["progit_de"],
   "/Users/rshih/Google%20Drive/e/ggd/": db["ggd"],
   "/Users/rshih/Google%20Drive/e/progit/": db["progit"],
@@ -44,6 +46,10 @@ var hosts = {
   "/Users/rshih/Google%20Drive/e/py/": db["py"],
   "/Users/rshih/Google%20Drive/e/webattack/": db["webattack"],
   "/Users/rshih/Google%20Drive/e/efcpp/": db["efcpp"],
+  "/Users/rshih/Google%20Drive/e/android-prog/": db["android-prog"],
+  "/Users/rshih/Google%20Drive/e/momofuku/": db["momofuku"],
+  "/Users/rshih/Google%20Drive/e/binder/": db["binder"],
+  "/Users/rshih/Google%20Drive/e/effcpp2/": db["effcpp2"],
   "end.of.hosts": {}
 }
 
